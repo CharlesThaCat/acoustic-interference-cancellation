@@ -81,7 +81,7 @@ for index = 1:length(y)
     end
 end
 figure;
-subplot(2,1,1); plot(x); title('original far-end speech'); 
+subplot(2,1,1); plot(x); title('original far-end speech');
 subplot(2,1,2); plot(result); title('echo cancellation result');
 
 %% Echo Return Loss Enhancement (ERLE)
