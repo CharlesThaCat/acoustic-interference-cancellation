@@ -76,3 +76,6 @@ for index = 1:length(y)
 end
 
 %% Echo Return Loss Enhancement (ERLE)
+power_d = sum(d.^2);
+power_e = sum(result.^2);
+ERLE = 10*log10(power_d./power_e);
