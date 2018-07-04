@@ -39,13 +39,14 @@ for index = 1:length(d)
     else
         sub = abs(x(1):x(index));
     end
-    Geigel = max(sub)./abs(d(index));
+    Geigel = max(sub)/abs(d(index));
     if Geigel < T
         dtd(index) = 1;    % presence of near-end speech
     else
         dtd(index) = 0;    % absent of near-end speech
     end
 end
+
 %% NLMS adaptive filter
 % initial condition
 mu = 0.05;
@@ -62,4 +63,16 @@ for index = 2:length(d)
         w(index+1) = w(index) + e(index).*x(index).*2.*mu./(gamma + x(index).*xT(index));
     end
 end
+
 %% Non-linear processor
+threshold = 3;
+result = zeros(1,length(y));
+for index = 1:length(y)
+    if y(index) < threshold
+        result(index) = y(index)./10;
+    else
+        result(index) = y(index);
+    end
+end
+
+%% Echo Return Loss Enhancement (ERLE)
