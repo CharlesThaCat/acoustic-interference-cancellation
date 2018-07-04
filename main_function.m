@@ -22,6 +22,11 @@ room = dsp.FIRFilter('Numerator', roomImpulseResponse');
 % far-end echo speech
 x_echo = room(x);
 r = x + x_echo*0.3;
+% plot
+figure;
+subplot(3,1,1); plot(x); title('far-end speech');
+subplot(3,1,2); plot(x_echo); title('echo');
+subplot(3,1,3); plot(r); title('far-end echo speech');
 
 %% Combine far-end echo speech and near-end speech
 d = r + v;
@@ -30,7 +35,8 @@ d = r + v;
 % look up time, N in Equation (3.23)
 N = fs1/50;
 % threshold, T in Equation (3.23)
-T = 2.5;
+% need to interactively change according to different speech 
+T = 0.5;
 dtd = zeros(1,length(d));
 % Geigel Algorithm over the whole signal
 for index = 1:length(d)
@@ -65,17 +71,21 @@ for index = 2:length(d)
 end
 
 %% Non-linear processor
-threshold = 3;
+threshold = 0.00001;   % need to change interactively according to different speech 
 result = zeros(1,length(y));
 for index = 1:length(y)
-    if y(index) < threshold
+    if abs(y(index)) < threshold
         result(index) = y(index)./10;
     else
         result(index) = y(index);
     end
 end
+figure;
+subplot(2,1,1); plot(x); title('original far-end speech');
+subplot(2,1,2); plot(result); title('echo cancellation result');
 
 %% Echo Return Loss Enhancement (ERLE)
+error_signal = abs(result-x');
 power_d = sum(d.^2);
-power_e = sum(result.^2);
-ERLE = 10*log10(power_d./power_e);
+power_error_signal = sum(error_signal.^2);
+ERLE = 10*log10(power_d./power_error_signal);
