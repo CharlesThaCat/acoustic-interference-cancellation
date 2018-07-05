@@ -25,3 +25,6 @@ http://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=2452&context=etd
 * Code the program main_function.m
 * Read a paper *Acoustic Echo Cancellation Using NLMS-Neural Network Structures*<br>
 https://pdfs.semanticscholar.org/de48/88dc9cca6eef62563940b931a66da43a22b2.pdf
+## 2018/7/5
+* Read a paper [*Multiple-input neural network-based residual echo suppression*](https://hal.inria.fr/hal-01723630/file/CARBAJAL_ICASSP_2018.pdf)
+* Read a paper
