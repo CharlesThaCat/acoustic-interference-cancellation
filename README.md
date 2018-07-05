@@ -25,3 +25,5 @@ The nomenclature of the variables in the program follows the nomenclature in the
 ## 2018/7/5
 * Read a paper [*Multiple-input neural network-based residual echo suppression*](https://hal.inria.fr/hal-01723630/file/CARBAJAL_ICASSP_2018.pdf)
 * Read a paper [*Multilayer Adaptation Based Complex Echo Cancellation And Voice Enhancement*](https://m.media-amazon.com/images/G/01/amazon.jobs/JunYang_ICASSP2018._CB1520904270_.pdf)
+* Get the raw acoustic data from mentor
+## 2018/7/6
