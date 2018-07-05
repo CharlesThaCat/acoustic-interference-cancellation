@@ -13,18 +13,15 @@ The program consists of:<br>
 The main contributor to this project is:<br>
 `Zhuowen Lin`<br>
 The programming language is MATLAB. 
-The nomenclature of the variables in the program follows the nomenclature in the instruction article *Implementation of an Acoustic Echo Canceller Using Matlab*<br>
-http://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=2452&context=etd
+The nomenclature of the variables in the program follows the nomenclature in the instruction article [*Implementation of an Acoustic Echo Canceller Using Matlab*](http://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=2452&context=etd)
 
 # Logs
 ## 2018/7/3
-* Get basic knowledge about echo cancellation by reading an instruction atricle *Implementation of an Acoustic Echo Canceller Using Matlab*<br>
-http://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=2452&context=etd
+* Get basic knowledge about echo cancellation by reading an instruction atricle [*Implementation of an Acoustic Echo Canceller Using Matlab*](http://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=2452&context=etd)
 * Configure the git repository
 ## 2018/7/4
 * Code the program main_function.m
-* Read a paper *Acoustic Echo Cancellation Using NLMS-Neural Network Structures*<br>
-https://pdfs.semanticscholar.org/de48/88dc9cca6eef62563940b931a66da43a22b2.pdf
+* Read a paper [*Acoustic Echo Cancellation Using NLMS-Neural Network Structures*](https://pdfs.semanticscholar.org/de48/88dc9cca6eef62563940b931a66da43a22b2.pdf)
 ## 2018/7/5
 * Read a paper [*Multiple-input neural network-based residual echo suppression*](https://hal.inria.fr/hal-01723630/file/CARBAJAL_ICASSP_2018.pdf)
-* Read a paper
+* Read a paper [*Multilayer Adaptation Based Complex Echo Cancellation And Voice Enhancement*](https://m.media-amazon.com/images/G/01/amazon.jobs/JunYang_ICASSP2018._CB1520904270_.pdf)
