@@ -27,3 +27,4 @@ The nomenclature of the variables in the program follows the nomenclature in the
 * Read a paper [*Multilayer Adaptation Based Complex Echo Cancellation And Voice Enhancement*](https://m.media-amazon.com/images/G/01/amazon.jobs/JunYang_ICASSP2018._CB1520904270_.pdf)
 * Get the raw acoustic data from mentor
 ## 2018/7/6
+* Read a papaer [*Multi-Microphone Acoustic Echo Cancellation using Relative Echo Transfer Functions*](https://www.researchgate.net/publication/321792298_Multi-Microphone_acoustic_echo_cancellation_using_relative_echo_transfer_functions)
