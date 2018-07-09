@@ -29,3 +29,6 @@ The nomenclature of the variables in the program follows the nomenclature in the
 ## 2018/7/6
 * Read a paper [*Multi-Microphone Acoustic Echo Cancellation using Relative Echo Transfer Functions*](https://www.researchgate.net/publication/321792298_Multi-Microphone_acoustic_echo_cancellation_using_relative_echo_transfer_functions)
 * Collect two other papers in realm of the new echo cancellation model
+## 2018/7/9
+* Read an instruction article [*Adaptive Noise Cancellation*](http://www.cs.cmu.edu/~aarti/pubs/ANC.pdf). Build a new model for adaptive interference cancellation (AIC).
+* Try several possible versions of AIC MATLAB code.
