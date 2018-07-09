@@ -31,4 +31,5 @@ The nomenclature of the variables in the program follows the nomenclature in the
 * Collect two other papers in realm of the new echo cancellation model
 ## 2018/7/9
 * Read an instruction article [*Adaptive Noise Cancellation*](http://www.cs.cmu.edu/~aarti/pubs/ANC.pdf). Build a new model for adaptive interference cancellation (AIC).
+* Download the AIC demo program from [*DSP ALGORITHM*](https://www.dspalgorithms.com/www/aic/aic.php). Test it on the raw acoustic data.
 * Try several possible versions of AIC MATLAB code.
