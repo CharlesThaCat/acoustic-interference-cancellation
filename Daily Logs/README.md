@@ -18,4 +18,9 @@
 * Try several possible versions of AIC MATLAB code.
 ## 2018/7/10
 * Read the the second chapter and several example programs about echo cancellation in [*User Manual of The Adaptive Signal Processing Toolbox*](https://www.dspalgorithms.com/www/aspt/maspt/aspt.html)
-* Create a mind map about how this project is conducted.
+* Create a mind map about how this project is conducted
+* Code a usable program using NLMS filter
+## 2018/7/11
+* Change the step size of NLMS algorithm in my program to make the result better
+* Compare the output of AIC demo program from [*DSP ALGORITHM*](https://www.dspalgorithms.com/www/aic/aic.php) with my own program output
+* Code a usable program using RLS filter
