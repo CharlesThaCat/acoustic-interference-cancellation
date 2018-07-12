@@ -24,3 +24,7 @@
 * Change the step size of NLMS algorithm in my program to make the result better
 * Compare the output of AIC demo program from [*DSP ALGORITHM*](https://www.dspalgorithms.com/www/aic/aic.php) with my own program output
 * Code a usable program using RLS filter
+* Analyze the output of my own program using cool edit with the mentor
+## 2018/7/12
+* Change the program by using several other adaptive filters and check their usabilities.
+* Try to implement the NLMS algorithm without calling the MATLAB build-in function
