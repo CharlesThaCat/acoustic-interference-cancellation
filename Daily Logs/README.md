@@ -28,3 +28,11 @@
 ## 2018/7/12
 * Change the program by using several other adaptive filters and check their usabilities.
 * Try to implement the NLMS algorithm without calling the MATLAB build-in function
+## 2018/7/13
+* Book the ticket of MLA live 2018
+## 2018/7/16
+* Read a paper providing a frequency-domain-based evaluation and adjustment method to echo cancellation system using adaptive algorithms [*Analysis of Acoustic Feedback & Echo Cancellation in Multiple-Microphone and Single-Loudspeaker Systems using a Power Transfer Function Method*](http://kom.aau.dk/~jje/pubs/jp/guo_et_al_2011_tsp.pdf)
+* Change the working focus to subband adaptive filtering AEC and collect some papers
+## 2018/7/17
+* Read a paper introducing subband echo cancellation using DFT modulation filter bank [*语音系统中的子带自适应回声消除技术*](http://www.doc88.com/p-7337013452161.html)
+* Read the principle introduction part of the paper [*A Subband Kalman Filter for Echo Cancellation*](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=8483&context=masters_theses)
