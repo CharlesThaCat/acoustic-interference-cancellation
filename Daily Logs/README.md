@@ -36,3 +36,7 @@
 ## 2018/7/17
 * Read a paper introducing subband echo cancellation using DFT modulation filter bank [*语音系统中的子带自适应回声消除技术*](http://www.doc88.com/p-7337013452161.html)
 * Read the principle introduction part of the paper [*A Subband Kalman Filter for Echo Cancellation*](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=8483&context=masters_theses)
+## 2018/7/18
+* Obtain a book named as *Subband Adaptive Filtering* from one of the colleagues
+* Read the simulation and result analysis part of the paper [*A Subband Kalman Filter for Echo Cancellation*](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=8483&context=masters_theses)
+* Comprehend the structure of the given MATLAB implementation of the paper [*A Subband Kalman Filter for Echo Cancellation*](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=8483&context=masters_theses)
