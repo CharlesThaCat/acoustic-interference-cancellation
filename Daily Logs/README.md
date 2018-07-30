@@ -40,3 +40,28 @@
 * Obtain a book named as *Subband Adaptive Filtering* from one of the colleagues
 * Read the simulation and result analysis part of the paper [*A Subband Kalman Filter for Echo Cancellation*](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=8483&context=masters_theses)
 * Comprehend the structure of the given MATLAB implementation of the paper [*A Subband Kalman Filter for Echo Cancellation*](https://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=8483&context=masters_theses)
+## 2018/7/19
+* Read Chapter 1 of the book *Subband Adaptive Filtering*, comprehend the mathematical essence of adaptive filtering.
+* Code a usable program of fullband AIC without calling MATLAB toolbox build-in functions 
+## 2018/7/20
+* Read Chapter 2 of the book *Subband Adaptive Filtering*
+* Spend some time reciting GRE vocabularies
+## 2018/7/23
+* Read Chapter 2 of the book *Subband Adaptive Filtering*, comprehend the mathematical and coding process of desinging analysis and synthesis filter bank.
+* Get all the commonly-used code in the book *Subband Adaptive Filtering*
+* Read Chapter 4 of the book *Subband Adaptive Filtering*
+## 2018/7/24
+* Read Chapter 4 of the book *Subband Adaptive Filtering*, comprehend the structures of adaptive filters in subband domain.
+## 2018/7/25
+* Read Appendix B of the book *Subband Adaptive Filtering*
+* Code a usable program of subband adaptive AIC without calling MATLAB toolbox build-in functions
+## 2018/7/26
+* Read Chapter 5 of the book *Subband Adaptive Filtering*
+## 2018/7/27
+* Read Chapter 5 of the book *Subband Adaptive Filtering*
+* Spend some time reciting GRE vocabularies and reading articles on *The New Yorker*
+## 2018/7/30
+* Read Chapter 5 of the book *Subband Adaptive Filtering*, get the knowledge of techniques for improving the performance of subband  adptive filters.
+* Test my program using subband adaptive AIC with raw data from mentor.
+## 2018/7/31
+* Read Chapter 6 of the book *Subband Adaptive Filtering*
