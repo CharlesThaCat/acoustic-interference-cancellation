@@ -61,7 +61,17 @@
 * Read Chapter 5 of the book *Subband Adaptive Filtering*
 * Spend some time reciting GRE vocabularies and reading articles on *The New Yorker*
 ## 2018/7/30
-* Read Chapter 5 of the book *Subband Adaptive Filtering*, get the knowledge of techniques for improving the performance of subband  adptive filters.
-* Test my program using subband adaptive AIC with raw data from mentor.
+* Read Chapter 5 of the book *Subband Adaptive Filtering*, get the knowledge of techniques for improving the performance of subband adptive filter
+* Test my program using subband adaptive AIC with raw data from mentor
 ## 2018/7/31
 * Read Chapter 6 of the book *Subband Adaptive Filtering*
+* Test the AEC program in *Speex* with raw data from mentor
+## 2018/8/1
+* Read Chapter 6 of the book *Subband Adaptive Filtering*, get the knowledge about a new way of adaptive filtering -- multiband-structured subband adaptive filter
+* Code a usable program of multiband-structured subband adaptive filter AIC
+## 2018/8/2
+* Read a paper about the basic algorithm of MDF in *Speex Codec* [*On Adjusting the Learning Rate in Frequency Domain Echo Cancellation with Double-Talk*](http://people.xiph.org/~jm/papers/valin_taslp2006.pdf)
+* Try the AIC effect of MDF in *Speex Codec*
+## 2018/8/3
+* Comparing the spectrograms of the outputs from AIC programs of *Speex*, SAF and MSAF.
+## 2018/8/6
