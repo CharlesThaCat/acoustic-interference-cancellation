@@ -1,6 +1,7 @@
 clear; clc;
 %% desired signal
 % n = (1:1000)';
+%#codegen
 % s = sin(0.075*pi*n);
 
 %% noise signal
@@ -10,12 +11,12 @@ clear; clc;
 
 %% primary input (noise corrupted signal)
 % x = s + v1;
-[x,fs1] = audioread('x41.wav');
+[x,fs1] = audioread('x14.wav');
 
 %% reference input 
 % ma = [1, -0.8, 0.4 , -0.2];
 % v2 = filter(ma,1,v);
-[v2,fs1] = audioread('x45.wav');
+[v2,fs1] = audioread('x15.wav');
 
 %% adaptive filter
 % initialization
