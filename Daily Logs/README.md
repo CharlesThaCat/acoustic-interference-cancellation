@@ -75,4 +75,4 @@
 ## 2018/8/3
 * Comparing the spectrograms of the outputs from AIC programs of *Speex*, SAF and MSAF.
 ## 2018/8/6
-* Summarize
+* Summarize the work in previous month and synchronize them to GitHub repository.

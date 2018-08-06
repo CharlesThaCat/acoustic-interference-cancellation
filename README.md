@@ -1,4 +1,4 @@
-Echo Cancellation
+Acoustic Interference Cancellation
 ======
 
 # Introduction
@@ -21,7 +21,7 @@ The programming language is MATLAB.
 * `Supporting materials`: pdf version of supporting materials including books and papers.
 
 # Result demonstration
-The spectrogram of the original acoustic file, which contains background musical interference signal and demanded speech signal "Xiao Du Xiao Du".<br>
+The spectrogram of the original acoustic file, which contains background musical interference signal and demanded speech signal "Xiao Du Xiao Du" under 500 Hz.<br>
 ![Original spectrogram](https://github.com/CharlesThaCat/acoustic-interference-cancellation/blob/master/original%20spectrogram_1.png)<br>
-The spectrogram of the processed acoustic file, which contains deteriorated and suppressed background musical interference signal and clearer demanded speech signal "Xiao Du Xiao Du".
+The spectrogram of the processed acoustic file, which contains deteriorated and suppressed background musical interference signal and clearer demanded speech signal "Xiao Du Xiao Du" under 500 Hz.
 ![Processed spectrogram](https://github.com/CharlesThaCat/acoustic-interference-cancellation/blob/master/Spectrogram_MSAF_output_01_1.png)<br>
