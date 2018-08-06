@@ -9,5 +9,7 @@ The main contributor to this project is:<br>
 The programming language is MATLAB. 
 
 # Mind map
-![mind map](https://github.com/CharlesThaCat/acoustic-interference-cancellation/raw/master/Adaptive Interference Cancellation mind map.jpg)
+![mind map](https://raw.githubusercontent.com/CharlesThaCat/acoustic-interference-cancellation/master/Adaptive%20Interference%20Cancellation%20mind%20map.jpg)
+
+#
 
