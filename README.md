@@ -14,7 +14,8 @@ The programming language is MATLAB.
 # Repository document components
 * Daily Logs: Records the daily schedules.
 * Fullband processing: Codes for fullband adaptive acoustic interference cancellation.
+* Speex Codec: MATLAB version of the acoustic echo cancellation program in *Speex Codec*. The code is forked from [*here*](https://github.com/wavesaudio/Speex-AEC-matlab/blob/master/speex_mdf.m).
 * Subband processing: Codes for subband adaptive acoustic interference cancellation.
     * Book: MATLAB codes for different algorithms proposed in different chapters of the book *Subband Adaptive Filtering*. (The pdf version of this book is included in the document Supporting Materials.)
     * Common Code: All the usable codes in the book *Subband Adaptive Filtering*. 
-* 
+* Supporting materials: pdf version of supporting materials including books and papers.
