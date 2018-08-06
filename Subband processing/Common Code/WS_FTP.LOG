@@ -1,0 +1,218 @@
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\AmpResp.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common AmpResp.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\APadapt.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common APadapt.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\APinit.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common APinit.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\DCTmatrix_TypeIV.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common DCTmatrix_TypeIV.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\dist_alias.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common dist_alias.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\DSAFadapt_Merched_cllp.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common DSAFadapt_Merched_cllp.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\DSAFadapt_Morgan_cllp.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common DSAFadapt_Morgan_cllp.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\DSAFinit_Merched.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common DSAFinit_Merched.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\DSAFinit_Morgan.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common DSAFinit_Morgan.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\engine_1.WAV <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common engine_1.WAV
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\engine_2.WAV <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common engine_2.WAV
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\far.wav <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common far.wav
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\fb.dat <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common fb.dat
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\fdaf.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common fdaf.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\FDAFadapt.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common FDAFadapt.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\FDAFinit.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common FDAFinit.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\FreqResp.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common FreqResp.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\FXLMSadapt.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common FXLMSadapt.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\FXLMSinit.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common FXLMSinit.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\FXNLMSadapt.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common FXNLMSadapt.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\FXNLMSinit.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common FXNLMSinit.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\GenerateResponses.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common GenerateResponses.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\GenerateResponses_speech.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common GenerateResponses_speech.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\h1.dat <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common h1.dat
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\h2.dat <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common h2.dat
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\HALMSadapt.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common HALMSadapt.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\HALMSinit.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common HALMSinit.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\HANLMSadapt.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common HANLMSadapt.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\HANLMSinit.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common HANLMSinit.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\Homer.mat <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common Homer.mat
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\IPNLMSadapt.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common IPNLMSadapt.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\IPNLMSinit.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common IPNLMSinit.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\LMSadapt.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common LMSadapt.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\LMSadapt_dec.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common LMSadapt_dec.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\LMSinit.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common LMSinit.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\make_bank.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common make_bank.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\make_bank_3.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common make_bank_3.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\make_bank_DFT.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common make_bank_DFT.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\MSAFadapt.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common MSAFadapt.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\MSAFadapt_cllp.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common MSAFadapt_cllp.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\MSAFadapt_oplp.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common MSAFadapt_oplp.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\MSAFinit.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common MSAFinit.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\near.WAV <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common near.WAV
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\NLMSadapt.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common NLMSadapt.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\NLMSadapt_dec.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common NLMSadapt_dec.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\NLMSinit.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common NLMSinit.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\opt_filter.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common opt_filter.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\p_p.asc <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common p_p.asc
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\p_z.asc <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common p_z.asc
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\PMSAFadapt.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common PMSAFadapt.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\PMSAFinit.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common PMSAFinit.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\PRAadapt.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common PRAadapt.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\PRAinit.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common PRAinit.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\PSDecimation.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common PSDecimation.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\recursive_power.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common recursive_power.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\RLSadapt.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common RLSadapt.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\RLSinit.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common RLSinit.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\s_p.asc <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common s_p.asc
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\s_z.asc <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common s_z.asc
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\SAFadapt.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common SAFadapt.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\SAFinit.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common SAFinit.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\smooth.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common smooth.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\SOAFadapt.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common SOAFadapt.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\SOAFadapt_DFT.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common SOAFadapt_DFT.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\SOAFinit.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common SOAFinit.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\SparseImpulse_512_32.mat <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common SparseImpulse_512_32.mat
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\speech.mat <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common speech.mat
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\SpeechSample.mat <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common SpeechSample.mat
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\stepcheck_lms.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common stepcheck_lms.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\Timit.wav <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common Timit.wav
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\WeightTransform_Merched.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common WeightTransform_Merched.m
+2009.01.20 12:15 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\WeightTransform_Morgan.m <-- General (9) /supplier9/incoming/Lee_Gan_Kuo_Subband_Jan2009/CD/Common WeightTransform_Morgan.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\AmpResp.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common AmpResp.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\APadapt.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common APadapt.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\APinit.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common APinit.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\DCTmatrix_TypeIV.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common DCTmatrix_TypeIV.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\dist_alias.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common dist_alias.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\DSAFadapt_Merched_cllp.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common DSAFadapt_Merched_cllp.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\DSAFadapt_Morgan_cllp.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common DSAFadapt_Morgan_cllp.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\DSAFinit_Merched.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common DSAFinit_Merched.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\DSAFinit_Morgan.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common DSAFinit_Morgan.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\engine_1.WAV --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common engine_1.WAV
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\engine_2.WAV --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common engine_2.WAV
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\far.wav --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common far.wav
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\fb.dat --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common fb.dat
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\fdaf.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common fdaf.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\FDAFadapt.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common FDAFadapt.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\FDAFinit.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common FDAFinit.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\FreqResp.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common FreqResp.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\FXLMSadapt.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common FXLMSadapt.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\FXLMSinit.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common FXLMSinit.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\FXNLMSadapt.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common FXNLMSadapt.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\FXNLMSinit.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common FXNLMSinit.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\GenerateResponses.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common GenerateResponses.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\GenerateResponses_speech.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common GenerateResponses_speech.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\h1.dat --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common h1.dat
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\h2.dat --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common h2.dat
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\HALMSadapt.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common HALMSadapt.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\HALMSinit.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common HALMSinit.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\HANLMSadapt.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common HANLMSadapt.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\HANLMSinit.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common HANLMSinit.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\Homer.mat --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common Homer.mat
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\IPNLMSadapt.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common IPNLMSadapt.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\IPNLMSinit.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common IPNLMSinit.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\LMSadapt.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common LMSadapt.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\LMSadapt_dec.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common LMSadapt_dec.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\LMSinit.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common LMSinit.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\make_bank.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common make_bank.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\make_bank_3.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common make_bank_3.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\make_bank_DFT.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common make_bank_DFT.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\MSAFadapt.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common MSAFadapt.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\MSAFadapt_cllp.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common MSAFadapt_cllp.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\MSAFadapt_oplp.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common MSAFadapt_oplp.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\MSAFinit.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common MSAFinit.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\near.WAV --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common near.WAV
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\NLMSadapt.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common NLMSadapt.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\NLMSadapt_dec.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common NLMSadapt_dec.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\NLMSinit.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common NLMSinit.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\opt_filter.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common opt_filter.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\p_p.asc --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common p_p.asc
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\p_z.asc --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common p_z.asc
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\PMSAFadapt.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common PMSAFadapt.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\PMSAFinit.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common PMSAFinit.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\PRAadapt.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common PRAadapt.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\PRAinit.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common PRAinit.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\PSDecimation.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common PSDecimation.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\recursive_power.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common recursive_power.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\RLSadapt.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common RLSadapt.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\RLSinit.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common RLSinit.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\s_p.asc --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common s_p.asc
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\s_z.asc --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common s_z.asc
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\SAFadapt.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common SAFadapt.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\SAFinit.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common SAFinit.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\smooth.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common smooth.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\SOAFadapt.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common SOAFadapt.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\SOAFadapt_DFT.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common SOAFadapt_DFT.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\SOAFinit.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common SOAFinit.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\SparseImpulse_512_32.mat --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common SparseImpulse_512_32.mat
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\speech.mat --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common speech.mat
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\SpeechSample.mat --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common SpeechSample.mat
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\stepcheck_lms.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common stepcheck_lms.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\Timit.wav --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common Timit.wav
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\WeightTransform_Merched.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common WeightTransform_Merched.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\WeightTransform_Morgan.m --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common WeightTransform_Morgan.m
+2009.01.21 14:08 B Y:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\WS_FTP.LOG --> ftp.wiley.co.uk /supplier1/incoming/Lee_Subband/Revised final manuscript_20_01_09/CD/Common WS_FTP.LOG
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\AmpResp.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common AmpResp.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\APadapt.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common APadapt.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\APinit.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common APinit.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\DCTmatrix_TypeIV.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common DCTmatrix_TypeIV.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\dist_alias.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common dist_alias.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\DSAFadapt_Merched_cllp.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common DSAFadapt_Merched_cllp.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\DSAFadapt_Morgan_cllp.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common DSAFadapt_Morgan_cllp.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\DSAFinit_Merched.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common DSAFinit_Merched.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\DSAFinit_Morgan.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common DSAFinit_Morgan.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\engine_1.WAV --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common engine_1.WAV
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\engine_2.WAV --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common engine_2.WAV
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\far.wav --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common far.wav
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\fb.dat --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common fb.dat
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\fdaf.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common fdaf.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\FDAFadapt.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common FDAFadapt.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\FDAFinit.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common FDAFinit.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\FreqResp.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common FreqResp.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\FXLMSadapt.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common FXLMSadapt.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\FXLMSinit.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common FXLMSinit.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\FXNLMSadapt.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common FXNLMSadapt.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\FXNLMSinit.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common FXNLMSinit.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\GenerateResponses.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common GenerateResponses.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\GenerateResponses_speech.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common GenerateResponses_speech.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\h1.dat --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common h1.dat
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\h2.dat --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common h2.dat
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\HALMSadapt.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common HALMSadapt.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\HALMSinit.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common HALMSinit.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\HANLMSadapt.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common HANLMSadapt.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\HANLMSinit.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common HANLMSinit.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\Homer.mat --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common Homer.mat
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\IPNLMSadapt.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common IPNLMSadapt.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\IPNLMSinit.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common IPNLMSinit.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\LMSadapt.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common LMSadapt.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\LMSadapt_dec.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common LMSadapt_dec.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\LMSinit.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common LMSinit.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\make_bank.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common make_bank.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\make_bank_3.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common make_bank_3.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\make_bank_DFT.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common make_bank_DFT.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\MSAFadapt.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common MSAFadapt.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\MSAFadapt_cllp.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common MSAFadapt_cllp.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\MSAFadapt_oplp.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common MSAFadapt_oplp.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\MSAFinit.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common MSAFinit.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\near.WAV --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common near.WAV
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\NLMSadapt.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common NLMSadapt.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\NLMSadapt_dec.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common NLMSadapt_dec.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\NLMSinit.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common NLMSinit.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\opt_filter.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common opt_filter.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\p_p.asc --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common p_p.asc
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\p_z.asc --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common p_z.asc
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\PMSAFadapt.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common PMSAFadapt.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\PMSAFinit.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common PMSAFinit.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\PRAadapt.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common PRAadapt.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\PRAinit.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common PRAinit.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\PSDecimation.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common PSDecimation.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\recursive_power.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common recursive_power.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\RLSadapt.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common RLSadapt.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\RLSinit.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common RLSinit.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\s_p.asc --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common s_p.asc
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\s_z.asc --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common s_z.asc
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\SAFadapt.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common SAFadapt.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\SAFinit.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common SAFinit.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\smooth.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common smooth.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\SOAFadapt.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common SOAFadapt.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\SOAFadapt_DFT.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common SOAFadapt_DFT.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\SOAFinit.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common SOAFinit.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\SparseImpulse_512_32.mat --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common SparseImpulse_512_32.mat
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\speech.mat --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common speech.mat
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\SpeechSample.mat --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common SpeechSample.mat
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\stepcheck_lms.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common stepcheck_lms.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\Timit.wav --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common Timit.wav
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\WeightTransform_Merched.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common WeightTransform_Merched.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\WeightTransform_Morgan.m --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common WeightTransform_Morgan.m
+2009.02.20 10:29 B X:\Lee_Subband_9780470516942\Revised final manuscript_20_01_09\CD\Common\WS_FTP.LOG --> ftp.wiley.co.uk /supplier9/Pat Bateson/CD/Common WS_FTP.LOG

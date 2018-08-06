@@ -55,8 +55,8 @@ end
 
 %% NLMS adaptive filter
 % initial condition
-mu = 0.001;
-gamma = 0.5;
+mu = 0.00001;
+gamma = 10;
 w = zeros(1,length(d));
 y = zeros(1,length(d));
 e = zeros(1,length(d));
@@ -69,7 +69,7 @@ for index = 2:length(d)
         w(index+1) = w(index) + e(index).*x(index).*2.*mu./(gamma + x(index).*xT(index));
     end
 end
-soundsc(y);
+soundsc(y,fs1);
 
 % %% Non-linear processor
 % threshold = 0.00001;   % need to change interactively according to different speech 
