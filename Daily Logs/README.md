@@ -76,3 +76,27 @@
 * Comparing the spectrograms of the outputs from AIC programs of *Speex*, SAF and MSAF.
 ## 2018/8/6
 * Summarize the work in previous month and synchronize them to GitHub repository.
+## 2018/8/7
+* Read a paper [*An Improved Multiband-Structured Subband Adaptive Filter Algorithm*](https://ieeexplore.ieee.org/document/6248164/) and try to implement it in MATLAB.
+* Learn 1.1 and 1.2 in [*C++ Tutorial*](https://www.cprogramming.com/tutorial/c++-tutorial.html).
+## 2018/8/8
+* Read a paper [*Variable Step-Size Matrix for the Improved
+Multiband-Structured Subband Adaptive Filter*](http://english.cas.cn/newsroom/research_news/201612/P020161222309329630632.pdf) and try to implement it in MATLAB.
+* Learn 1.3 and 1.4 in [*C++ Tutorial*](https://www.cprogramming.com/tutorial/c++-tutorial.html).
+## 2018/8/9
+* Learn 1.5 in [*C++ Tutorial*](https://www.cprogramming.com/tutorial/c++-tutorial.html).
+* Listen to an academic lecture given by Prof. Chin-Hui Lee named as *A Machine Learning Approach to Speech Signal Preprocessing*.
+## 2018/8/10
+* Learn 2.1 and 2.2 in [*C++ Tutorial*](https://www.cprogramming.com/tutorial/c++-tutorial.html).
+* Implement the deep neural network mentioned in the lecture in yesterday to my practial scenario.
+## 2018/8/13
+* Learn 2.3 in [*C++ Tutorial*](https://www.cprogramming.com/tutorial/c++-tutorial.html).
+* Test the DNN with data from another colleague.
+* Summarize the work done in last week.
+## 2018/8/14
+* Learn 2.4 in [*C++ Tutorial*](https://www.cprogramming.com/tutorial/c++-tutorial.html).
+* Discuss graduate education issues with the internship mentor.
+## 2018/8/15
+* Learn 3.1 in [*C++ Tutorial*](https://www.cprogramming.com/tutorial/c++-tutorial.html).
+* Read a paper [*An Experimental Study on Speech Enhancement
+Based on Deep Neural Networks*](https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool/blob/master/Yong_SPL_SEDNN_2013.pdf)
