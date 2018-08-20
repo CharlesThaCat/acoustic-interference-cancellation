@@ -23,5 +23,6 @@ The programming language is MATLAB.
 # Result demonstration
 The spectrogram of the original acoustic file, which contains background musical interference signal and demanded speech signal "Xiao Du Xiao Du" under 500 Hz.<br>
 ![Original spectrogram](https://github.com/CharlesThaCat/acoustic-interference-cancellation/blob/master/original%20spectrogram_1.png)<br>
-The spectrogram of the processed acoustic file, which contains deteriorated and suppressed background musical interference signal and clearer demanded speech signal "Xiao Du Xiao Du" under 500 Hz.
+The spectrogram of the subband filtering processed acoustic file, which contains deteriorated and suppressed background musical interference signal and clearer demanded speech signal "Xiao Du Xiao Du" under 500 Hz.
 ![Processed spectrogram](https://github.com/CharlesThaCat/acoustic-interference-cancellation/blob/master/Spectrogram_MSAF_output_01_1.png)<br>
+The result can be even better by first utilizing the [DNN-Speech-enhancement-demo-tool](https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool) and then doing subband filtering. The basic idea is to use [DNN-Speech-enhancement-demo-tool](https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool) to clear the background musical interference effectively and use subband filtering to clear the human singing voice interference. The resulting spectrogram is shown below.

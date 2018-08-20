@@ -100,3 +100,11 @@ Multiband-Structured Subband Adaptive Filter*](http://english.cas.cn/newsroom/re
 * Learn 3.1 in [*C++ Tutorial*](https://www.cprogramming.com/tutorial/c++-tutorial.html).
 * Read a paper [*An Experimental Study on Speech Enhancement
 Based on Deep Neural Networks*](https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool/blob/master/Yong_SPL_SEDNN_2013.pdf)
+## 2018/8/16
+* Learn 3.2 in [*C++ Tutorial*](https://www.cprogramming.com/tutorial/c++-tutorial.html).
+* Read a paper [*A Regression Approach to Speech Enhancement Based on Deep Neural Networks*](https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool/blob/master/YongXU_Taslp_2015.pdf)
+# 2018/8/17
+* Learn 3.3 in [*C++ Tutorial*](https://www.cprogramming.com/tutorial/c++-tutorial.html).
+# 2018/8/20
+* Learn 3.4 & 3.5 in [*C++ Tutorial*](https://www.cprogramming.com/tutorial/c++-tutorial.html).
+* 
